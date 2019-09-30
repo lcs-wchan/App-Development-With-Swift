@@ -12,5 +12,6 @@ print ("steps")
  */
 steps = 2000
 print ("steps")
+
 print ("Good job! You're well on your way to your daily goal")
 //: [Previous](@previous)  |  page 4 of 10  |  [Next: Exercise - Constant or Variable?](@next)
