@@ -14,7 +14,17 @@ if steps < stepGoal / 2 {
     print("Over halfway!")
 }
 
+var largest = Int
 
+let stepGoal = 10000
+let steps = 3948
+
+if stepGoal > steps{
+    largest = stepGoal
+}else{
+    largest = steps 
+
+}
 /*:
 
  _Copyright © 2018 Apple Inc._

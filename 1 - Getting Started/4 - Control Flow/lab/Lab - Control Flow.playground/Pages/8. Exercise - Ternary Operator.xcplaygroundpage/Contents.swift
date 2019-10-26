@@ -3,6 +3,7 @@
  
  Refactor the code below so that `largest` is declared and assigned to in one line using the ternary operator.
  */
+var largest: Int
 let number1 = 14
 let number2 = 25
 
